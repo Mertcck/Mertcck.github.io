@@ -1,0 +1,149 @@
+{
+  "profile": {
+    "name": "Jane Doe",
+    "title": "Creative Frontend Developer",
+    "bio": "Deniz kokusu ve kod satırları arasında büyüdüm. Bodrum'un beyaz duvarlarından ilham alarak dijital deneyimler inşa ediyorum. Minimalizmi sever, renklere tutkunum.",
+    "location": "Bodrum, Muğla",
+    "email": "jane.doe@example.com",
+    "avatar": "https://i.pravatar.cc/300?img=47",
+    "social": {
+      "github": "https://github.com",
+      "linkedin": "https://linkedin.com",
+      "twitter": "https://twitter.com",
+      "dribbble": "https://dribbble.com"
+    },
+    "skills": ["HTML & CSS", "JavaScript", "React", "Vue.js", "Figma", "Node.js", "Tailwind", "GSAP"]
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Ege Tatil Rehberi",
+      "category": "Web App",
+      "description": "Ege'nin gizli koylarını ve restoranlarını keşfetmek için interaktif bir rehber uygulaması.",
+      "image": "https://picsum.photos/seed/bodrum1/600/400",
+      "tags": ["React", "Mapbox", "Node.js"],
+      "year": "2024",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "title": "Mavi Yolculuk",
+      "category": "UI Design",
+      "description": "Tekne turları için özel tasarlanmış rezervasyon ve deneyim paylaşım platformu.",
+      "image": "https://picsum.photos/seed/bodrum2/600/400",
+      "tags": ["Figma", "Vue.js", "Firebase"],
+      "year": "2024",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "title": "Zeytinyağı Markası",
+      "category": "Branding",
+      "description": "Bodrum'un yerel üreticileri için kurumsal kimlik ve e-ticaret çözümü.",
+      "image": "https://picsum.photos/seed/bodrum3/600/400",
+      "tags": ["Branding", "Shopify", "CSS"],
+      "year": "2023",
+      "link": "#"
+    },
+    {
+      "id": 4,
+      "title": "Gün Batımı Dashboard",
+      "category": "Web App",
+      "description": "Meteoroloji verilerini estetik bir görsellikle sunan hava durumu uygulaması.",
+      "image": "https://picsum.photos/seed/bodrum4/600/400",
+      "tags": ["JavaScript", "D3.js", "API"],
+      "year": "2023",
+      "link": "#"
+    },
+    {
+      "id": 5,
+      "title": "Antika Pazar",
+      "category": "E-Commerce",
+      "description": "Bodrum'daki antikacılar için kolektif bir çevrimiçi pazar yeri platformu.",
+      "image": "https://picsum.photos/seed/bodrum5/600/400",
+      "tags": ["Next.js", "Stripe", "MongoDB"],
+      "year": "2022",
+      "link": "#"
+    },
+    {
+      "id": 6,
+      "title": "Kabotaj Müzesi",
+      "category": "Web Design",
+      "description": "Deniz tarihi müzesi için dijital arşiv ve sanal tur deneyimi.",
+      "image": "https://picsum.photos/seed/bodrum6/600/400",
+      "tags": ["Three.js", "GSAP", "WebGL"],
+      "year": "2022",
+      "link": "#"
+    }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Tasarımda Boşluğun Gücü",
+      "slug": "tasarimda-boslugun-gucu",
+      "excerpt": "Bodrum'un beyaz badanalı duvarları bana öğretti: Boşluk bir eksiklik değil, bir seçimdir.",
+      "content": "Minimalizm hakkında konuşurken insanlar genellikle 'az ama öz' klişesini tekrarlar. Oysa mesele bu değil. Bodrum'da bir yaz sabahı, kireçle badanlanmış duvarların arasında yürürken anladım: Boşluk, sessizce konuşur. Tasarımda negatif alan, gözün nefes aldığı yerdir.",
+      "date": "2024-11-15",
+      "readTime": "4 dk",
+      "category": "Tasarım",
+      "image": "https://picsum.photos/seed/blog1/800/400",
+      "tags": ["Minimalizm", "UI/UX", "Tasarım Felsefesi"]
+    },
+    {
+      "id": 2,
+      "title": "CSS Animasyonları ile Deniz Dalgaları",
+      "slug": "css-animasyonlari-deniz-dalgalari",
+      "excerpt": "Sadece CSS kullanarak organik, akışkan dalga animasyonları nasıl yaratılır? Bodrum kıyısından ilham aldım.",
+      "content": "Sabah erken saatte deniz kenarında otururken dalgaların ritmi aklıma takıldı. Bu organik hareketi koda nasıl dökerim? CSS keyframes ve sinüs eğrileri bu sorunun yanıtı oldu.",
+      "date": "2024-10-28",
+      "readTime": "6 dk",
+      "category": "Kod",
+      "image": "https://picsum.photos/seed/blog2/800/400",
+      "tags": ["CSS", "Animasyon", "Frontend"]
+    },
+    {
+      "id": 3,
+      "title": "Pastel Renk Paletleri Oluşturmanın Sanatı",
+      "slug": "pastel-renk-paletleri",
+      "excerpt": "Gün batımı, lavanta tarlaları, Ege'nin turkuaz suları: Doğadan renk paletleri çıkarmanın yöntemleri.",
+      "content": "Renk teorisi derslerde öğrenilen formüllerin ötesindedir. Bir gün batımını izlerken mordan turuncuya geçişin o mükemmel anını yakalamak, en iyi renk dersiydi benim için.",
+      "date": "2024-09-10",
+      "readTime": "5 dk",
+      "category": "Tasarım",
+      "image": "https://picsum.photos/seed/blog3/800/400",
+      "tags": ["Renk", "Tasarım", "Yaratıcılık"]
+    },
+    {
+      "id": 4,
+      "title": "Freelance Hayatı: İlk Yılın Dersleri",
+      "slug": "freelance-ilk-yil",
+      "excerpt": "Kurumsal hayattan bağımsız çalışmaya geçişin korkuları, sürprizleri ve öğrettikleri.",
+      "content": "Bodrum'a taşınma kararı, aynı zamanda freelance hayata adım atmaktı. Deniz kenarında laptop açmak romantik görünüyor; ama işin püf noktaları var.",
+      "date": "2024-08-22",
+      "readTime": "7 dk",
+      "category": "Kariyer",
+      "image": "https://picsum.photos/seed/blog4/800/400",
+      "tags": ["Freelance", "Kariyer", "Deneyim"]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Ege Dijital Ajans",
+      "role": "Senior Frontend Developer",
+      "period": "2022 – Günümüz",
+      "description": "Turizm ve yaşam tarzı markaları için yüksek performanslı web uygulamaları geliştirme."
+    },
+    {
+      "company": "İstanbul Teknoloji A.Ş.",
+      "role": "UI/UX Developer",
+      "period": "2019 – 2022",
+      "description": "Fintech ve e-ticaret ürünleri için kullanıcı arayüzleri tasarlama ve uygulama."
+    },
+    {
+      "company": "Freelance",
+      "role": "Web Tasarımcı",
+      "period": "2017 – 2019",
+      "description": "KOBİ'ler ve yerel işletmeler için web sitesi ve dijital kimlik çalışmaları."
+    }
+  ]
+}
